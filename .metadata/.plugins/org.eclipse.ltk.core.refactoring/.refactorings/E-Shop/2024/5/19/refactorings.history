@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<session version="1.0">
+<refactoring accessors="true" comment="Delete 8 elements from project &apos;E-Shop&apos;&#x0D;&#x0A;- Original project: &apos;E-Shop&apos;&#x0D;&#x0A;- Original elements:&#x0D;&#x0A;     admin_crud.PNG&#x0D;&#x0A;     create_unify_database_script_2.sql&#x0D;&#x0A;     create_unify_database_script.sql&#x0D;&#x0A;     home.PNG&#x0D;&#x0A;     index.png&#x0D;&#x0A;     library-jar-files.PNG&#x0D;&#x0A;     product-detail.PNG&#x0D;&#x0A;     product-list.PNG" description="Delete elements" element1="create_unify_database_script.sql" element2="product-detail.PNG" element3="home.PNG" element4="library-jar-files.PNG" element5="admin_crud.PNG" element6="index.png" element7="product-list.PNG" element8="create_unify_database_script_2.sql" elements="0" flags="589830" id="org.eclipse.jdt.ui.delete" resources="8" stamp="1715010869664" subPackages="false" version="1.0"/>
+</session>

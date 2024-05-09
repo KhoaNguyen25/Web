@@ -1,0 +1,6 @@
+INDEX VERSION 1.4+C:\Users\fptsh\eclipse-workspace\.metadata\.plugins\org.eclipse.wst.jsdt.core\indexes
+3816626667.index
+2571900491.index
+4219279280.index
+2823296141.index
+1684977215.index
